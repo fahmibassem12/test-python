@@ -1,2 +1,2 @@
 # test-python
-Testing python codes 
+Testing pythone learning skills
